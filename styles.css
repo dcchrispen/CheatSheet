@@ -1,0 +1,18 @@
+body{
+   font-family: Arial;
+   background-image: url("https://mythsandmountains.com/wp-content/uploads/2018/10/myths-and-mountains-and-beyond.jpg");
+   color: white;
+ }
+ 
+ 
+ table {   
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+}
+h2 {
+  font-size: 25px;
+}
+.code {
+  font-family: monospace;
+}
